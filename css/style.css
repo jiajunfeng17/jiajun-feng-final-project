@@ -3,6 +3,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+
 .main {
 	height:1000px;
 	background-image: url(../images/homebackground.jpg);
@@ -13,7 +14,7 @@ body {
 
 #container {
 	height: 700px;
-	width: 1500px;	
+	width: 1400px;	
 	margin: 0 auto;
 	padding-left: 150px;
 }
@@ -26,7 +27,8 @@ body {
 
 .logo {
 	float: left;
-	margin-top:15px;}
+	margin-top:15px;
+}
 
 nav {
 	float: right;
@@ -75,25 +77,22 @@ h1 {
 }
 
 .padding {
-	padding-right: 20px
-
+	padding-right: 20px;
 }
 .one {
-	margin-top: 20px
+	margin-top: 20px;
 }
 
 .two {
-	margin-top: 20px
+	margin-top: 20px;
 }
 .three {
-	margin-top: 20px
+	margin-top: 20px;
 }
 .four {
-	margin-top: 20px
+	margin-top: 20px;
 }
-.five {
-	margin-top: 20px
-}
+
 
 /*FOOTER SECTION*/
 footer {
