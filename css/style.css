@@ -13,8 +13,9 @@ body {
 
 #container {
 	height: 700px;
-	width: 1000px;	
+	width: 1500px;	
 	margin: 0 auto;
+	padding-left: 150px;
 }
 
 .header {
@@ -100,7 +101,7 @@ footer {
 	height: 445px;
 	background-image: url(../images/footer1.jpg); 
 	background-size: cover;
-	margin-top: 920px;
+	margin-top: 600px;
 	background-repeat: no-repeat;}
 
 
