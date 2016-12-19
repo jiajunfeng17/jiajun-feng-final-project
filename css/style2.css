@@ -116,7 +116,7 @@ footer {
 }
 
 h3 {
-	color: white;
+	color: #333;
 }
 
 div.social{
@@ -133,7 +133,7 @@ div.contact{
 	margin-top: 10px;}
 
 label {
-	color: white;
+	color: #333;
 }
 
 input.text{
